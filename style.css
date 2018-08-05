@@ -1,7 +1,26 @@
-.trade-button {
+a:hover {
+    color: #66023C;
+}
+
+tr:nth-child(even) {
+    background-color: #cbd1db;
+}
+
+nav{
+    border-bottom: 15px solid #66023C;
+}
+
+th {
+    border-bottom: 5px solid grey;
+}
+
+table {
     
-    border-radius: 15px;
-    background-color: success;
+    border: 3px black solid;
     
 }
 
+#start-button {
+    background-color: #66023C;
+    color: white;
+}
