@@ -20,7 +20,23 @@ table {
     
 }
 
-#start-button {
-    background-color: #66023C;
-    color: white;
+#startButton {
+    margin: 25px;
 }
+
+h4 {
+    font-family: Roboto;
+    color: #66023C;
+}
+
+#Logo {
+    font-family: Russo One;
+    color: #66023C 
+}
+
+.footer-pad {
+    
+    padding-top: 1em;
+    
+}
+
