@@ -1,5 +1,6 @@
 a:hover {
     color: #66023C;
+    background-color: white;
 }
 
 tr:nth-child(even) {
@@ -49,4 +50,7 @@ h4 {
     text-align: center;
 }
 
-
+#powered {
+    font-size: .25em;
+    margin-top: .25em;
+}
