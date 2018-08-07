@@ -54,3 +54,11 @@ h4 {
     font-size: .25em;
     margin-top: .25em;
 }
+
+h3 {
+    
+    -webkit-text-stroke: white 1px; 
+    
+    
+    
+}
